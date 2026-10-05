@@ -12,6 +12,8 @@ Use Codex, Claude Code, or another agent that can access this Mac. Paste this on
 Install the Bambu Studio Account Switcher on this Mac from https://github.com/adiind/bambu-account-switcher/raw/refs/heads/main/releases/bambu-account-switcher-1.2-shareable.zip, then open Bambu Setup.app and guide me through adding my local profiles. Keep all account and session data on this Mac.
 ```
 
+On Windows? Paste this into your agent: “Recreate this Bambu Studio account switcher for my Windows laptop, using this project as a reference. Verify Windows profile and login-session storage first, and keep all account and session data local.”
+
 ## Install manually
 
 1. Download [`bambu-account-switcher-1.2-shareable.zip`](releases/bambu-account-switcher-1.2-shareable.zip).
